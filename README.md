@@ -8,5 +8,3 @@
 <img src="https://img.shields.io/badge/-OperatingSystem-1572B6?style=flat-square&logo=OperatingSystem" style="display:inline"/>
 <img src="https://img.shields.io/badge/-embedded-430098?style=flat-square&logo=embedded" style="display:inline"/>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QIUZHILEI&count_private=true&show_icons=true&theme=catppuccin_latte)
